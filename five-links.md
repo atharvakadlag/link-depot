@@ -40,3 +40,14 @@ Quote of the Week: “One person's paranoia is another person's engineering redu
 4. As a developer, I've probably spent more time building web forms than anything else. This can be particularly tricky with JavaScript. But these best practices will save you a lot of time and headache. (14 minute read): https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/
 
 5. Hundreds of universities around the world have made programming and computer science courses openly available on the web. My friend Dhawal has compiled 700 of these courses that you can explore. If you want, you can strap these together to build your own school year. (browsable list): https://www.freecodecamp.org/news/free-online-programming-cs-courses/
+
+## Week 4
+1. Learn Git for professionals. This intermediate course will teach you how to use the world's most popular version control system to manage your code. You'll learn the difference between merging and rebasing. You'll also learn about pull requests, branching strategies, and how to wrangle those pesky merge conflicts. (1 hour YouTube course): https://www.freecodecamp.org/news/git-for-professionals/
+
+2. This web design course will walk you through building your own multi-page recipe website. You'll use pure HTML and CSS with no frameworks. This is a great first course for aspiring front end developers. And a solid refresher if you're feeling rusty. (2 hour YouTube course): https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/
+
+3. You may have heard the term DOM Manipulation when talking about web development. But what exactly is the Document Object Model? In this tutorial, Jessica will show you how the DOM works, and how even sophisticated single-page applications still rely on HTML elements as anchors to the page. (10 minute read): https://www.freecodecamp.org/news/what-is-the-dom-document-object-model-meaning-in-javascript/
+
+4. Natural Language Processing (NLP) is how computers glean insights from human languages like English. Python has a powerful NLP library called spaCy. In this course, data scientist and professor Dr. Mattingly will introduce you to NLP concepts like Word Vectors, Named Entity Recognition, EntityRulers and more. (3 hour YouTube course): https://www.freecodecamp.org/news/natural-language-processing-with-spacy-python-full-course/
+
+5. Before there was BitTorrent, people shared files the old fashioned way – from the command line. And if you have a Unix shell available (Mac, Linux, or the Windows 10 Subsystem for Linux should work) you can relive that 1980s experience. This tutorial will show you how to use the handy SCP command to move files from one computer to another using SSH. (7 minute read): https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/
